@@ -43,3 +43,5 @@ defaults:
 
 # The github repo that is to be used for looking up comments
 comments_repo: andrejpetras/andrejpetras.github.io
+
+google_analytics: UA-43891726-2
