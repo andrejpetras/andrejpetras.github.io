@@ -21,8 +21,8 @@ linkedin_username: "andrejpetras"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-theme: "architect"
+theme: "minima"
+#theme: "architect"
 
 rss: rss
 
